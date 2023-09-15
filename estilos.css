@@ -1,0 +1,44 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    border: solid 3px;
+    padding: 20px;
+    height: 300px;
+    border-radius: 20px;
+}
+#titulo{
+    font-size: medium;
+    
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    
+}
+#subtitulo{
+    font-size: large;
+    
+    justify-content: flex-end;
+    color: rgb(0, 0, 0);
+    width: 400px;
+}
+
+
+#footer{
+    background-color: rgb(36, 223, 36);
+    color: rgb(21, 21, 226);
+    height: 150px;
+}
+#nav{
+    background-color: rgb(0, 255, 255);
+    display: flex;
+}
+
+.boton{
+    background-color: rgb(48, 64, 216);
+    margin: 30px;
+    padding: 10px;
+    width: 400px;
+    height: 30px;
+    
+}
